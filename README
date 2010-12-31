@@ -1,0 +1,7 @@
+Gosu Mage - project dependency tool (under construction)
+- mage new myProject - creates a project struture with skeletal files
+- mage deps - downloads dependencies, if any are specified in project.gsp
+- mage clean - removes generated artifacts (jars)
+- mage verify - verifies code, runs tests (if any)
+- mage dist - creates executable (standalone) jar (for an application)
+- mage publish - uploads jar to gosujars (for a library, for a registered user) 
